@@ -56,7 +56,6 @@ product has some styling issues, don't worry too much about it.
 
 As a user, I should be able to:
 
-- See profiles of all bots rendered in `BotCollection`.
 - Add an individual bot to my army by clicking on it. The selected bot should
   render in the `YourBotArmy` component. The bot can be enlisted only **once**.
   The bot **does not** disappear from the `BotCollection`.
